@@ -8,7 +8,6 @@ public class Radioman {
     private int minVolume = 0;
     private int maxVolume = 10;
 
-
     public int getCurrentStation() {
         return currentStation;
     }
